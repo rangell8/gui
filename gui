@@ -1,4 +1,4 @@
---gui lib rexy edition
+sexy--gui lib rexy edition
 -- Probably my newest code up to date thats available publicly. 
 -- Made around march - april 2025
 
@@ -1374,7 +1374,7 @@ local themes = {
     -- Library element functions
         function Library:Window(properties)
             local Cfg = {
-                Name = properties.Name or "WarShop On Top (creds to Sexy Rexy for script) .gg/warshop";
+                Name = properties.Name or "WarShop On Top | .gg/warshop";
                 Size = properties.Size or dim2(0, 455, 0, 605);
                 TabInfo;
                 Items = {};
