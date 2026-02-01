@@ -44,7 +44,7 @@ local themes = {
     },
     utility = {},
     gradients = {
-        Selected = {rgb(255, 182, 193), rgb(255, 105, 180)};  -- light → hot pink
+        Selected = {rgb(255, 105, 180), rgb(255, 105, 180)};  -- light → hot pink
         Deselected = {rgb(255, 240, 245), rgb(255, 182, 193)}; -- pastel fade
     },
 }
@@ -1374,7 +1374,7 @@ local themes = {
     -- Library element functions
         function Library:Window(properties)
             local Cfg = {
-                Name = properties.Name or "nebula";
+                Name = properties.Name or "WarShop";
                 Size = properties.Size or dim2(0, 455, 0, 605);
                 TabInfo;
                 Items = {};
