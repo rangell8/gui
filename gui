@@ -1374,7 +1374,7 @@ local themes = {
     -- Library element functions
         function Library:Window(properties)
             local Cfg = {
-                Name = properties.Name or "WarShop";
+                Name = properties.Name or "WarShop On Top (creds to Sexy Rexy for script) .gg/warshop";
                 Size = properties.Size or dim2(0, 455, 0, 605);
                 TabInfo;
                 Items = {};
