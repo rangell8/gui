@@ -39,7 +39,7 @@ local themes = {
         accent = rgb(255, 192, 203);       -- pastel pink
         background = rgb(255, 240, 245);   -- lavender blush
         text_color = rgb(255, 255, 255);    -- deep pink
-        text_outline = rgb(255, 182, 193); -- soft outline
+        text_outline = rgb(255, 255, 255); -- soft outline
         tab_background = rgb(255, 182, 193); -- light pink tab bg
     },
     utility = {},
